@@ -14,8 +14,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on _freelance
-- I’m currently learning _Ux/Ui__, __Springboot__, & __Java__.
+- I’m currently working as __[Freelance]
+- I’m currently learning __Ux/Ui__, __Springboot__, & __Java__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 
