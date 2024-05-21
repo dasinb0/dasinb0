@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working as __[QUO-Soluciones SRL_] &__[Freelance]
+- I’m currently working as __[__QUO-Soluciones__SRL__] &__[Freelance]
 - I’m currently learning __Ux/Ui__, __Angular__, __Java__ & __JavaScript__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
