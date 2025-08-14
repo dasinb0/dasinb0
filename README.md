@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m currently working as __[__Sooft-technology__] &__[Freelance]
-- I’m currently learning __Ux/Ui__, __Angular__, __Java__ & __JavaScript__.
+- I’m currently learning __Ux/Ui__, __Angular__, NodeJS, __SQL__ & __JavaScript__.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
 
@@ -23,30 +23,40 @@ You can use the website to generate badges: https://shields.io/
 
 **Languages and Tools:**
 
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
+<p align="center">
+  <!-- Fila 1 -->
+  <img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+  <br><br>
+
+  <!-- Fila 2 -->
+  <img width="8%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+  <img width="8%" src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/php/php-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+  <br><br>
+
+  <!-- Fila 3 -->
+  <img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img width="8%" src="https://www.svgrepo.com/show/303229/mongodb-logo.svg">
+  <img width="8%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg">
 </p>
 
----
 
-<a href="https://github.com/dasinb0/github-readme-stats">
-   <img width="60%" alt="dasinb0 github stats" src="https://github-readme-stats.vercel.app/api?username=dasinb0&show_icons=true&hide_border=true" />
-</a>
+
+
 
 
 
