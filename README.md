@@ -46,7 +46,7 @@ You can use the website to generate badges: https://shields.io/
   <!-- Fila 3 -->
   <img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img width="8%" src="https://www.svgrepo.com/show/303229/mongodb-logo.svg">
+  <img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
   <img width="8%" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img width="8%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
